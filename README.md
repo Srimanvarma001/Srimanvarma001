@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently pursuing Btech from IIT KGP
 - 💞️ I’m looking to collaborate on Software development
-- 📫 How to reach me Email me on srimandunde@gmail.com
+- 📫 How to reach me Email me on srimanvarma29@gmail.com
 
 
 <!---
